@@ -11,7 +11,7 @@ It is designed for workflows where you regularly:
 - keep project-specific URLs, prompts, and notes,
 - move files or ZIPs into ChatGPT,
 - and keep several projects organized without constantly switching between Explorer, terminals, and browser windows.
-
+<img width="1407" height="1110" alt="image" src="https://github.com/user-attachments/assets/2bd7bf80-1750-49f9-981c-62e4856fa8c9" />
 The app is written in Python and uses the standard Tkinter desktop UI. It does not require third-party Python packages for normal use.
 
 ## Requirements
